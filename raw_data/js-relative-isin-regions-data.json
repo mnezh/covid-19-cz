@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Hlavní město Praha",
+    "code": "CZ010",
+    "color": "rgba(211, 17, 69, 1)",
+    "value": 51.65
+  },
+  {
+    "name": "Středočeský kraj",
+    "code": "CZ020",
+    "color": "rgba(211, 17, 69, 0.47376573088093)",
+    "value": 24.47
+  },
+  {
+    "name": "Jihočeský kraj",
+    "code": "CZ031",
+    "color": "rgba(211, 17, 69, 0.24472410454985)",
+    "value": 12.64
+  },
+  {
+    "name": "Plzeňský kraj",
+    "code": "CZ032",
+    "color": "rgba(211, 17, 69, 0.33572120038722)",
+    "value": 17.34
+  },
+  {
+    "name": "Karlovarský kraj",
+    "code": "CZ041",
+    "color": "rgba(211, 17, 69, 0.54424007744434)",
+    "value": 28.11
+  },
+  {
+    "name": "Ústecký kraj",
+    "code": "CZ042",
+    "color": "rgba(211, 17, 69, 0.21471442400774)",
+    "value": 11.09
+  },
+  {
+    "name": "Liberecký kraj",
+    "code": "CZ051",
+    "color": "rgba(211, 17, 69, 0.26311713455954)",
+    "value": 13.59
+  },
+  {
+    "name": "Královéhradecký kraj",
+    "code": "CZ052",
+    "color": "rgba(211, 17, 69, 0.22846079380445)",
+    "value": 11.8
+  },
+  {
+    "name": "Pardubický kraj",
+    "code": "CZ053",
+    "color": "rgba(211, 17, 69, 0.24995159728945)",
+    "value": 12.91
+  },
+  {
+    "name": "Kraj Vysočina",
+    "code": "CZ063",
+    "color": "rgba(211, 17, 69, 0.3080348499516)",
+    "value": 15.91
+  },
+  {
+    "name": "Jihomoravský kraj",
+    "code": "CZ064",
+    "color": "rgba(211, 17, 69, 0.23697967086157)",
+    "value": 12.24
+  },
+  {
+    "name": "Olomoucký kraj",
+    "code": "CZ071",
+    "color": "rgba(211, 17, 69, 0.68247821878025)",
+    "value": 35.25
+  },
+  {
+    "name": "Zlínský kraj",
+    "code": "CZ072",
+    "color": "rgba(211, 17, 69, 0.35546950629235)",
+    "value": 18.36
+  },
+  {
+    "name": "Moravskoslezský kraj",
+    "code": "CZ080",
+    "color": "rgba(211, 17, 69, 0.4325266214908)",
+    "value": 22.34
+  }
+]

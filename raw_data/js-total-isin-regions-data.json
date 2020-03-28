@@ -1,0 +1,80 @@
+{
+  "key": "region",
+  "values": [
+    {
+      "x": "Hlavní město Praha",
+      "y": 703,
+      "color": "#d31145"
+    },
+    {
+      "x": "Středočeský kraj",
+      "y": 333,
+      "color": "#d31145"
+    },
+    {
+      "x": "Jihočeský kraj",
+      "y": 81,
+      "color": "#d31145"
+    },
+    {
+      "x": "Plzeňský kraj",
+      "y": 101,
+      "color": "#d31145"
+    },
+    {
+      "x": "Karlovarský kraj",
+      "y": 83,
+      "color": "#d31145"
+    },
+    {
+      "x": "Ústecký kraj",
+      "y": 91,
+      "color": "#d31145"
+    },
+    {
+      "x": "Liberecký kraj",
+      "y": 60,
+      "color": "#d31145"
+    },
+    {
+      "x": "Královéhradecký kraj",
+      "y": 65,
+      "color": "#d31145"
+    },
+    {
+      "x": "Pardubický kraj",
+      "y": 67,
+      "color": "#d31145"
+    },
+    {
+      "x": "Kraj Vysočina",
+      "y": 81,
+      "color": "#d31145"
+    },
+    {
+      "x": "Jihomoravský kraj",
+      "y": 145,
+      "color": "#d31145"
+    },
+    {
+      "x": "Olomoucký kraj",
+      "y": 223,
+      "color": "#d31145"
+    },
+    {
+      "x": "Zlínský kraj",
+      "y": 107,
+      "color": "#d31145"
+    },
+    {
+      "x": "Moravskoslezský kraj",
+      "y": 269,
+      "color": "#d31145"
+    },
+    {
+      "x": "Nezjištěno",
+      "y": 132,
+      "color": "#d31145"
+    }
+  ]
+}

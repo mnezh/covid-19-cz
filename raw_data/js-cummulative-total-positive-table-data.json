@@ -1,6 +1,10 @@
 {
   "body": [
     [
+      "27.3.2020",
+      2395
+    ],
+    [
       "26.3.2020",
       2022
     ],
@@ -247,7 +251,7 @@
       "colType": "date"
     },
     {
-      "title": "Celkový počet osob s COVID-19",
+      "title": "Celkové (kumulativní) počty osob s laboratorně prokázaným onemocněním COVID-19",
       "colType": "numeric"
     }
   ]

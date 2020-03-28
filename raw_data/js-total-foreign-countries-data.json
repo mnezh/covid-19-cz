@@ -8,31 +8,39 @@
     },
     {
       "x": "Rakousko",
-      "y": 104
+      "y": 118
     },
     {
       "x": "Německo",
-      "y": 21
+      "y": 24
+    },
+    {
+      "x": "Velká Británie",
+      "y": 16
+    },
+    {
+      "x": "Francie",
+      "y": 12
     },
     {
       "x": "USA",
       "y": 12
     },
     {
-      "x": "Velká Británie",
+      "x": "Švýcarsko",
       "y": 12
-    },
-    {
-      "x": "Francie",
-      "y": 11
     },
     {
       "x": "Španělsko",
       "y": 11
     },
     {
-      "x": "Švýcarsko",
-      "y": 10
+      "x": "Turecko",
+      "y": 9
+    },
+    {
+      "x": "Dominikánská republika",
+      "y": 7
     },
     {
       "x": "Maďarsko",
@@ -43,23 +51,27 @@
       "y": 5
     },
     {
-      "x": "Turecko",
-      "y": 5
+      "x": "Slovensko",
+      "y": 4
     },
     {
-      "x": "Dominikánská republika",
-      "y": 5
-    },
-    {
-      "x": "Egypt",
-      "y": 3
+      "x": "Argentina",
+      "y": 4
     },
     {
       "x": "Irsko",
       "y": 3
     },
     {
-      "x": "Dánsko",
+      "x": "Egypt",
+      "y": 3
+    },
+    {
+      "x": "Izrael",
+      "y": 3
+    },
+    {
+      "x": "Mexiko",
       "y": 2
     },
     {
@@ -71,11 +83,7 @@
       "y": 2
     },
     {
-      "x": "Izrael",
-      "y": 2
-    },
-    {
-      "x": "Slovensko",
+      "x": "Portugalsko",
       "y": 2
     },
     {
@@ -83,23 +91,23 @@
       "y": 2
     },
     {
-      "x": "Švédsko",
-      "y": 1
-    },
-    {
-      "x": "Albánie",
-      "y": 1
-    },
-    {
-      "x": "Indonésie",
-      "y": 1
-    },
-    {
-      "x": "Portugalsko",
-      "y": 1
+      "x": "Dánsko",
+      "y": 2
     },
     {
       "x": "Polsko",
+      "y": 1
+    },
+    {
+      "x": "Jihoafrická republika",
+      "y": 1
+    },
+    {
+      "x": "Filipíny",
+      "y": 1
+    },
+    {
+      "x": "Řecko",
       "y": 1
     },
     {
@@ -111,23 +119,23 @@
       "y": 1
     },
     {
-      "x": "AR",
-      "y": 1
-    },
-    {
-      "x": "Řecko",
-      "y": 1
-    },
-    {
       "x": "Kamerun",
       "y": 1
     },
     {
-      "x": "PH",
+      "x": "Albánie",
       "y": 1
     },
     {
-      "x": "OM",
+      "x": "Švédsko",
+      "y": 1
+    },
+    {
+      "x": "Indonésie",
+      "y": 1
+    },
+    {
+      "x": "Omán",
       "y": 1
     }
   ]

@@ -1,17 +1,17 @@
 [
   {
     "label": "nezjištěno",
-    "value": 18,
+    "value": 0,
     "color": "#A9A9A9"
   },
   {
     "label": "zahraničí",
-    "value": 365,
+    "value": 405,
     "color": "#d31145"
   },
   {
     "label": "ČR",
-    "value": 1238,
+    "value": 1559,
     "color": "#141d59"
   }
 ]
