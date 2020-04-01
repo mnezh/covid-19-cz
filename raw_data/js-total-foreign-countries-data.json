@@ -3,36 +3,36 @@
   "color": "#d31145",
   "values": [
     {
-      "x": "Itálie",
-      "y": 133
+      "x": "Rakousko",
+      "y": 142
     },
     {
-      "x": "Rakousko",
-      "y": 118
+      "x": "Itálie",
+      "y": 136
     },
     {
       "x": "Německo",
-      "y": 24
+      "y": 26
     },
     {
       "x": "Velká Británie",
-      "y": 16
+      "y": 25
     },
     {
       "x": "Francie",
-      "y": 12
-    },
-    {
-      "x": "USA",
-      "y": 12
-    },
-    {
-      "x": "Švýcarsko",
-      "y": 12
+      "y": 21
     },
     {
       "x": "Španělsko",
-      "y": 11
+      "y": 16
+    },
+    {
+      "x": "Švýcarsko",
+      "y": 13
+    },
+    {
+      "x": "USA",
+      "y": 13
     },
     {
       "x": "Turecko",
@@ -40,6 +40,10 @@
     },
     {
       "x": "Dominikánská republika",
+      "y": 7
+    },
+    {
+      "x": "Thajsko",
       "y": 7
     },
     {
@@ -52,6 +56,14 @@
     },
     {
       "x": "Slovensko",
+      "y": 5
+    },
+    {
+      "x": "Mexiko",
+      "y": 4
+    },
+    {
+      "x": "Egypt",
       "y": 4
     },
     {
@@ -59,31 +71,19 @@
       "y": 4
     },
     {
+      "x": "Izrael",
+      "y": 4
+    },
+    {
       "x": "Irsko",
       "y": 3
     },
     {
-      "x": "Egypt",
-      "y": 3
-    },
-    {
-      "x": "Izrael",
-      "y": 3
-    },
-    {
-      "x": "Mexiko",
+      "x": "Švédsko",
       "y": 2
     },
     {
-      "x": "Spojené arabské emiráty",
-      "y": 2
-    },
-    {
-      "x": "Thajsko",
-      "y": 2
-    },
-    {
-      "x": "Portugalsko",
+      "x": "Gruzie",
       "y": 2
     },
     {
@@ -91,15 +91,23 @@
       "y": 2
     },
     {
+      "x": "Spojené arabské emiráty",
+      "y": 2
+    },
+    {
+      "x": "Portugalsko",
+      "y": 2
+    },
+    {
       "x": "Dánsko",
       "y": 2
     },
     {
-      "x": "Polsko",
+      "x": "Omán",
       "y": 1
     },
     {
-      "x": "Jihoafrická republika",
+      "x": "Chile",
       "y": 1
     },
     {
@@ -107,19 +115,7 @@
       "y": 1
     },
     {
-      "x": "Řecko",
-      "y": 1
-    },
-    {
-      "x": "Kanada",
-      "y": 1
-    },
-    {
-      "x": "Slovinsko",
-      "y": 1
-    },
-    {
-      "x": "Kamerun",
+      "x": "Malta",
       "y": 1
     },
     {
@@ -127,7 +123,19 @@
       "y": 1
     },
     {
-      "x": "Švédsko",
+      "x": "Slovinsko",
+      "y": 1
+    },
+    {
+      "x": "Kanada",
+      "y": 1
+    },
+    {
+      "x": "Polsko",
+      "y": 1
+    },
+    {
+      "x": "Kamerun",
       "y": 1
     },
     {
@@ -135,7 +143,11 @@
       "y": 1
     },
     {
-      "x": "Omán",
+      "x": "Řecko",
+      "y": 1
+    },
+    {
+      "x": "Jihoafrická republika",
       "y": 1
     }
   ]

@@ -3,77 +3,77 @@
   "values": [
     {
       "x": "Hlavní město Praha",
-      "y": 703,
+      "y": 882,
       "color": "#d31145"
     },
     {
       "x": "Středočeský kraj",
-      "y": 333,
+      "y": 431,
       "color": "#d31145"
     },
     {
       "x": "Jihočeský kraj",
-      "y": 81,
+      "y": 104,
       "color": "#d31145"
     },
     {
       "x": "Plzeňský kraj",
-      "y": 101,
+      "y": 150,
       "color": "#d31145"
     },
     {
       "x": "Karlovarský kraj",
-      "y": 83,
+      "y": 111,
       "color": "#d31145"
     },
     {
       "x": "Ústecký kraj",
-      "y": 91,
+      "y": 199,
       "color": "#d31145"
     },
     {
       "x": "Liberecký kraj",
-      "y": 60,
+      "y": 105,
       "color": "#d31145"
     },
     {
       "x": "Královéhradecký kraj",
-      "y": 65,
+      "y": 102,
       "color": "#d31145"
     },
     {
       "x": "Pardubický kraj",
-      "y": 67,
+      "y": 108,
       "color": "#d31145"
     },
     {
       "x": "Kraj Vysočina",
-      "y": 81,
+      "y": 114,
       "color": "#d31145"
     },
     {
       "x": "Jihomoravský kraj",
-      "y": 145,
+      "y": 184,
       "color": "#d31145"
     },
     {
       "x": "Olomoucký kraj",
-      "y": 223,
+      "y": 300,
       "color": "#d31145"
     },
     {
       "x": "Zlínský kraj",
-      "y": 107,
+      "y": 133,
       "color": "#d31145"
     },
     {
       "x": "Moravskoslezský kraj",
-      "y": 269,
+      "y": 314,
       "color": "#d31145"
     },
     {
       "x": "Nezjištěno",
-      "y": 132,
+      "y": 93,
       "color": "#d31145"
     }
   ]

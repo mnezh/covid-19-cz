@@ -1,0 +1,178 @@
+{
+  "body": [
+    [
+      "30.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "27.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "31.03.2020",
+      "60+",
+      "Moravskoslezský kraj"
+    ],
+    [
+      "31.03.2020",
+      "60+",
+      "Karlovarský kraj"
+    ],
+    [
+      "25.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "24.03.2020",
+      "0–49",
+      "Moravskoslezský kraj"
+    ],
+    [
+      "31.03.2020",
+      "60+",
+      "Olomoucký kraj"
+    ],
+    [
+      "31.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "25.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "29.03.2020",
+      "0–49",
+      "Středočeský kraj"
+    ],
+    [
+      "31.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "30.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "29.03.2020",
+      "60+",
+      "Ústecký kraj"
+    ],
+    [
+      "30.03.2020",
+      "60+",
+      "Moravskoslezský kraj"
+    ],
+    [
+      "25.03.2020",
+      "60+",
+      "Středočeský kraj"
+    ],
+    [
+      "29.03.2020",
+      "60+",
+      "Kraj Vysočina"
+    ],
+    [
+      "27.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "24.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "25.03.2020",
+      "60+",
+      "Pardubický kraj"
+    ],
+    [
+      "31.03.2020",
+      "0–49",
+      "Hlavní město Praha"
+    ],
+    [
+      "28.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "28.03.2020",
+      "60+",
+      "Karlovarský kraj"
+    ],
+    [
+      "25.03.2020",
+      "60+",
+      "Olomoucký kraj"
+    ],
+    [
+      "28.03.2020",
+      "60+",
+      "Olomoucký kraj"
+    ],
+    [
+      "28.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "22.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "29.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "29.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "29.03.2020",
+      "60+",
+      "Pardubický kraj"
+    ],
+    [
+      "25.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "25.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ],
+    [
+      "30.03.2020",
+      "60+",
+      "Hlavní město Praha"
+    ]
+  ],
+  "header": [
+    {
+      "title": "Datum",
+      "colType": "date"
+    },
+    {
+      "title": "Věková skupina",
+      "colType": "varchar"
+    },
+    {
+      "title": "Kraj",
+      "colType": "varchar"
+    }
+  ]
+}
